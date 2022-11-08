@@ -1,6 +1,6 @@
 # Alternate-Crop-Prediction-Using-Artificial-Intelligence-A-Case-Study-in-Assam
 
-The paper was accepted and presented in IEEE-iSES (International Symposium on Smart Electronic Systems) 2021 Conference held in MNIT, Jaipur.
+The paper was accepted and presented in IEEE-iSES (International Symposium on Smart Electronic Systems) 2021 Conference held at MNIT, Jaipur.
 
 The link to the paper is : https://ieeexplore.ieee.org/abstract/document/9701090
 
